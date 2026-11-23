@@ -1,0 +1,6 @@
+# 本机备份 / 临时文件，不进仓库
+*.bak-*
+*.prev
+*.log
+.prettierrc
+node_modules/
